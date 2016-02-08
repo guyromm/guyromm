@@ -1,0 +1,75 @@
+{
+ "fullName": "Guy Romm",
+ "email": "guyromm@gmail.com",
+ "avatar": "http://i.imgur.com/EvxTmMx.png",
+ "title": "Web Systems Architect",
+ "location": "Tel Aviv, Israel",
+ "homepage": "https://github.com/guyromm",
+ "twitter": "https://twitter.com/guyromm",
+ "tech": "Python, PostgreSQL, NodeJS, Coffescript, React, Backbone, git, CI, Agile, Jenkins, Selenium, libvirt, docker",
+ "about": "Hi there!\nI've about 15 years of hands-on development experience, the last four of which had plenty of management challenges as well.\n\nI have set up methodology, platform & tooling from the ground up for a distributed development process, employing modern approaches such as Agile & CI, have matured and scaled said process.\n\nI've made design, implementation & choice decisions for tech stacks beginning with the infrastructure layer (hardware, networking, virtualization), have chosen, scaled & optimized persistence layers (MySQL, PostgreSQL, Mongo, Redis..), have authored & architected applications & services written in Python, PHP & NodeJS through to the writing in Javascript & Coffeescript on the client.\n\nAm fluent in English, Russian & Hebrew.\n\nI enjoy cycling, hiking & a good whiskey.\"\n\n ",
+ "editor": "emacs",
+ "os": "ubuntu",
+ "terminal": "tmux",
+ "writingHabits": "I've [published on habrahabr](https://habrahabr.ru/post/118308/ \"tech choice for browser-based games\"), a popular russian tech news platform an article about choosing tech for browser-based games.",
+ "experience": [
+  {
+   "since": "2014",
+   "title": "Owner @ WEB GMA R&D",
+   "about": "- CTO for Sandstorm R&D\n- Tech reasearch & consulting for various web projects "
+  },
+  {
+   "title": "Chief Architect / CTO @ Sandstorm R&D",
+   "since": "2010",
+   "about": "- set up the technology stack for a web gaming platform that has its own games as well as lots of 3rd party integrations \n- set up an agile distributed development process that includes dozens of remote devs, a review process, continuous integration\n- managed the day-to-day process, including standups, code Witch& functionality reviews, demos etc.\n- authored numerous dev-process related tools such as a [couch-db based tasks system](https://github.com/guyromm/ScratchDocs \"ScratchDocs\"), a [git commits synchronization tool](https://github.com/guyomm/AutoMerge \"AutoMerge\") & lots others.\n- authored and maintained a JS animation framework, a proprietary asynchronous server-side framework, other tools.",
+   "tech": "Python2.7, gevent, SQLAlchemy, sharding"
+  },
+  {
+   "title": "CTO @ EGO Gaming",
+   "since": "2005",
+   "till": "2006",
+   "about": "- written a multilingual CMS for multiple whitelabel websites\n- integrated with the ongame poker platform\n- set up a fault-tolerant infrastructure for the site & backoffice from the ground up. ",
+   "tech": "PHP5"
+  },
+  {
+   "title": "CTO @ Magnet Development",
+   "since": "2003",
+   "till": "2005",
+   "tech": "PHP4",
+   "about": "- created a distributed CMS for SEM/SEO purposes\n- created http automation (one-sided integration, scrapers, submitters etc) for various 3rd party services such as blogs, email, hosting providers\n- written DeepSearch, a SERPs collection & analysis module for the purpose of tracking website / keyword positions in the SERPs.\n- performed analysis/reverse engineering of SE algorithms with the purpose of creating highly ranking sites"
+  },
+  null
+ ],
+ "projects": [
+  {
+   "url": "https://github.com/guyromm/IsraeliBank2Qifhttps://github.com/guyromm/ServerAccess",
+   "title": "Israeli Bank XLS importer/converter",
+   "desc": "gets your financial data into GnuCash / Quicken."
+  },
+  {
+   "title": "AutoMerge",
+   "url": "https://github.com/guyromm/AutoMerge",
+   "desc": "synchronize git merges across multiple repos / submodules."
+  },
+  {
+   "title": "ScratchDocs",
+   "url": "https://github.com/guyromm/ScratchDocs",
+   "desc": "a couchdb based "
+  },
+  {
+   "title": "Green Couriers",
+   "url": "https://github.com/guyromm/greencouriers",
+   "desc": "(now defunct) geospatial platform launched in 2009 for matching between tel aviv couriers, businesses & clientsa"
+  },
+  {
+   "title": "ServerAccess",
+   "url": "https://github.com/guyromm/ServerAccess",
+   "desc": "python-based iptables firewall wrapper for painless system administration"
+  },
+  {
+   "title": "GitoliteLogParser",
+   "url": "https://github.com/guyromm/GitoliteLogParser",
+   "desc": "monitor closely who accesses your repositories"
+  }
+ ]
+}
